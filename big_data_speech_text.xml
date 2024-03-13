@@ -48,34 +48,106 @@
          associated with success, what situation <kinesic><desc>hand gesture for moving one thing from one side to another</desc></kinesic>leads to success. 
       </u>
       <u>
-         Actually, <kinesic><desc>hand gesture to calm down the audience</desc></kinesic>everyone uses algorithms, they just <hand gesture for the fact> don’t formalize them in written code </hand gesture for the fact>. <hand gesture for the audience> Let me give an example </hand gesture for the audience>: <hand gesture for herself> I use an algorithm every day to make a meal for my family </hand gesture for herself>. <hand gesture for grabbing something> The data I use </hand gesture for grabbing something> <hand gesture for listing items> is the <hand gesture for one list item>ingredients in my kitchen </hand gesture for one list item>, <hand gesture for one list item>the time I have </hand gesture for one list item>, <hand gesture for one list item>the ambition I have</hand gesture for one list item></hand gesture for listing items>, and <hand gesture for no don’t suppose I forgot> I curate that data</hand gesture for no don’t suppose I forgot>. <hand gesture for no>I don’t count</hand gesture for no> <symbolizing a package>those little packages of ramen noodles<symbolizing a package> as food. <laughter><pause></laughter>  
+         Actually, <kinesic><desc>hand gesture to calm down the audience</desc></kinesic>
+         everyone uses algorithms, they just don’t formalize them in written code. 
+         Let me give an example <kinesic><desc>gesturing towards the audience</desc></kinesic>: 
+         <kinesic><desc>gestures towards herself</desc></kinesic>I use an algorithm every day to make 
+         a meal for my family. <kinesic><desc>hand gesture for grabbing something</desc></kinesic>
+         The data I use <kinesic><desc>hand gesture for listing</desc></kinesic> is the 
+         <list>
+            <item>ingredients in my kitchen, </item>
+            <item>the time I have, </item>
+            <item>the ambition I have</item>
+         </list>, and <kinesic><desc>hand gesture for no don’t suppose I forgot</desc></kinesic> I curate that data. 
+         <kinesic><desc>hand gesture for no</desc></kinesic>I don’t count <kinesic><desc>symbolizing a package</desc></kinesic>
+         those little packages of ramen noodles as food. <vocal who="#Audience"><desc>laughter</desc></vocal>
       </u>
       <u>
-         My definition of success is, a meal of success is my kids eat vegetables. It’s very different from if my youngest son were in charge, he’d say if he gets to eat lots of Nutella. <laughter><sigh></laughter> But I get to choose success. I am in charge. My opinion matters. That’s the first rule of algorithms: algorithms are opinions embedded in code. It’s very different from what you think most people think of algorithms. <del>They think of algorithms <del>, they think algorithms are objective and true and scientific. That’s a marketing trick <'a-ha' from a person in the audience>. It’s also a marketing trick to intimidate you with algorithms: to make you trust and fear math and algorithms because you trust and fear mathematics. A lot can go wrong when we put blind faith in big data… 
+         My definition of success is, a meal of success is my kids eat vegetables. It’s very different 
+         from if my youngest son were in charge, he’d say if he gets to eat lots of Nutella. 
+         <vocal who="#Audience"><desc>laughter</desc></vocal> But I get to choose success. I am in charge. 
+         My opinion matters. That’s the first rule of algorithms: algorithms are opinions embedded in code. 
+         It’s very different from what you think most people think of algorithms. 
+         <del>They think of algorithms </del>, they think algorithms are objective and true and scientific. 
+         That’s a marketing trick <vocal who="#Audience"><desc>a slight "a-ha"</desc></vocal>. 
+         It’s also a marketing trick to intimidate you with algorithms: 
+         to make you trust and fear math and algorithms because you trust and fear mathematics. 
+         A lot can go wrong when we put blind faith in big data. <pause />
       </u>
       <u>
-         This is Kiri Soares. She’s a high school principal in Brooklyn. In twenty eleven, she told me her teachers were being scored with a complex, secret algorithm called a “value-added model”. I told her, “Well, figure out what the formula is, show it to me. <nodding>I’m gonna explain it to you</nodding>.” She said, “Well, I tried to get the formula, but my department of education contact told me it was <quote>math</quote> and I wouldn’t understand it. <pause> <finger raised>It gets worse.</finger raised> The New York Post filed a Freedom of Information Act request. Got all the teachers’ names, and all their scores and they publish them as an act of teacher-shaming. When I tried to get the formulas of source code, through the same means, I was told I couldn’t. I was denied. <fingers raised>I later found out </fingers raised>, that nobody in New York had access to that formula. No one understood it. Then someone really smart got involved, Gary Rubenstein. He found six hundred and sixty-five teachers <connection to before mentioned>from that New York Post data </connection to before mentioned> that actually had two scores. That could happen if they were teaching seventh grade math and <higher>eighth grade math </higher>. He decided to plot them. Each dot represents a teacher. <shows a diagram with a swarm of unstructured dots><laughter><pause></laughter> 
+         This is Kiri Soares. She’s a high school principal in Brooklyn. In twenty eleven, 
+         she told me her teachers were being scored with a complex, secret algorithm 
+         called a “value-added model”. I told her, “Well, figure out what the formula is, show it to me. 
+         <kinesic><desc>nodding head</desc></kinesic>I’m gonna explain it to you.” She said, 
+         “Well, I tried to get the formula, but my department of education contact told me it was 
+         <quote>math</quote> and I wouldn’t understand it. <pause /> 
+         <kinesic><desc>finger raised</desc></kinesic>It gets worse. 
+         The New York Post filed a Freedom of Information Act request. Got all the teachers’ names, 
+         and all their scores and they publish them as an act of teacher-shaming. 
+         When I tried to get the formulas of source code, through the same means, I was told I couldn’t. 
+         I was denied. <kinesic><desc>fingers raised</desc></kinesic>I later found out, 
+         that nobody in New York had access to that formula. No one understood it. 
+         Then someone really smart got involved, Gary Rubenstein. 
+         He found six hundred and sixty-five teachers <kinesic><desc>connection to before mentioned</desc></kinesic>
+         from that New York Post data that actually had two scores. 
+         That could happen if they were teaching seventh grade math and eighth grade math. 
+         He decided to plot them. Each dot represents a teacher. 
+         <kinesic><desc>shows a diagram with a swarm of unstructured dots</desc></kinesic>
+         <vocal who="#Audience"><desc>laughter</desc></vocal>
       </u>
       <u>
-         What is that? <laughter><pause></laughter> That should never have been used for individual assessment. It’s almost a random number generator. <applause>”Woa” from person in the audience</applause>. But it was. This is Sarah Wysocki. She got fired, along with two hundred and five other teachers from the Washington DC school district, even though she had great recommendations from her principal and the parents of her kids.  
+         What is that? <vocal who="#Audience"><desc>laughter</desc></vocal> 
+         That should never have been used for individual assessment. It’s almost a random number generator. 
+         <vocal who="#Audience"><desc>applause</desc></vocal>But it was. 
+         This is Sarah Wysocki. She got fired, along with two hundred and five other teachers from the Washington DC school district, 
+         even though she had great recommendations from her principal and the parents of her kids. 
       </u>
       <u>
-         I know what a lot of you guys are thinking, especially data scientists - the AI experts here. You’re thinking, “Well, I would never make an algorithm that inconsistent”. But algorithms can go wrong, even have deeply destructive effects with good intentions. And, whereas an airplane that’s designed badly crashes to the earth and everyone sees it, an algorithm designed badly <pause> can go on for a long time, silently wreaking havoc.  
+         I know what a lot of you guys are thinking, especially data scientists - the AI experts here. 
+         You’re thinking, “Well, I would never make an algorithm that inconsistent”. 
+         But algorithms can go wrong, even have deeply destructive effects with good intentions. 
+         And, whereas an airplane that’s designed badly crashes to the earth and everyone sees it, 
+         an algorithm designed badly <pause /> can go on for a long time, silently wreaking havoc.  
       </u>
       <u>
-         This is Roger Ailes. <laughter><nodding><pause></nodding></laughter> He founded Fox News in nineteen ninety-six. More than twenty women complained about sexual harassment. They said they weren’t allowed to succeed at Fox News. He was ousted last year, but we’ve seen recently that the problems have persisted. That begs the question: What should Fox News do to turn over another leaf? Well, what if they replaced their hiring process with a machine-learning algorithm? That sounds good, right? Think about it. The data, what would the data be? A reasonable choice would be the last twenty-one years of applications to Fox News. Reasonable. What about the definition of success? Reasonable choice would be, well, who is successful at Fox News? I guess someone who, say, stayed there for four years and was promoted at least once. Sounds reasonable. And then, the algorithm would be trained. It would be trained to look for people to learn what led to success, what kind of applications <del>led to</del> historically led to success, by that definition.  
+         This is Roger Ailes. <vocal who="#Audience"><desc>laughter</desc></vocal><kinesic><desc>nodding head</desc></kinesic> 
+         He founded Fox News in nineteen ninety-six. More than twenty women complained about sexual harassment. 
+         They said they weren’t allowed to succeed at Fox News. He was ousted last year, but we’ve seen recently that the problems have persisted. 
+         That begs the question: What should Fox News do to turn over another leaf? 
+         Well, what if they replaced their hiring process with a machine-learning algorithm? That sounds good, right? 
+         Think about it. The data, what would the data be? 
+         A reasonable choice would be the last twenty-one years of applications to Fox News. Reasonable. 
+         What about the definition of success? Reasonable choice would be, well, who is successful at Fox News? 
+         I guess someone who, say, stayed there for four years and was promoted at least once. Sounds reasonable. 
+         And then, the algorithm would be trained. 
+         It would be trained to look for people to learn what led to success, what kind of applications 
+         <del>led to</del> historically led to success, by that definition.  
       </u>
       <u>
-         <finger raised> Now think of what would happen if we applied that to a current pool of applicants. It would filter out women <pause> because they do not look like people who were successful in the past.  
+         <kinesic><desc>finger raised</desc></kinesic>Now think of what would happen if we applied that to a current pool of applicants. 
+         It would filter out women <pause /> because they do not look like people who were successful in the past.  
       </u>
       <u>
-         Algorithms don’t make things fair if you just blithely, blindly apply algorithms. They don’t make things fair. They repeat our past practices, our patterns. They automate the status quo. That would be great if we had a perfect world, but we don’t. <finger raised> And I’ll add </finger raised> that most companies don’t have embarrassing lawsuits. But the data scientist in those companies are told <hand gesture for strictly>to follow</hand gesture for strictly> the data, <hand gesture for strictly>to focus on accuracy</hand gesture for strictly>. Think about what that means. Because we all have bias, it means they could be codifying <hand gesture for first of a number of reasons>sexism</hand gesture for first of a number of reasons> or any other kind of bigotry.  
+         Algorithms don’t make things fair if you just blithely, blindly apply algorithms. 
+         They don’t make things fair. They repeat our past practices, our patterns. They automate the status quo. 
+         That would be great if we had a perfect world, but we don’t. 
+         <kinesic><desc>finger raised</desc></kinesic>And I’ll add that most companies don’t have embarrassing lawsuits. 
+         But the data scientist in those companies are told <kinesic><desc>hand gesture for strictly</desc></kinesic>to follow the data, 
+         <kinesic><desc>hand gesture for strictly</desc></kinesic>to focus on accuracy. 
+         Think about what that means. Because we all have bias, it means they could be codifying <kinesic><desc>hand gesture for first of a number of reasons</desc></kinesic>sexism or any other kind of bigotry. 
       </u>
       <u>
-         Thought experiment, because I like them: <inhale> an entirely segregated society – racially segregated, all towns, all neighborhoods, and where we send the police only to the minority neighborhoods to look for crime. The arrest data would be very biased. What if, on top of that, we found the data scientist and paid the data scientist to predict where the next crime would occur? <hand gesture for ironically no clue or obvious>Minority neighborhoods</hand gesture for ironically no clue or obvious>. Oh, or to predict who the next criminal would be? A minority.  
+         Thought experiment, because I like them: <vocal><desc>inhale</desc></vocal>
+         an entirely segregated society – racially segregated, all towns, all neighborhoods, 
+         and where we send the police only to the minority neighborhoods to look for crime. 
+         The arrest data would be very biased. What if, on top of that, 
+         we found the data scientist and paid the data scientist to predict where the next crime would occur? 
+         <kinesic><desc>hand gesture for ironically no clue or obvious</desc></kinesic>Minority neighborhoods. 
+         Oh, or to predict who the next criminal would be? A minority. 
       </u>
       <u>
-         The data scientists would brag about how great and how accurate their model would be, and they’d be <nodding>right</nodding>.  
+         The data scientists would brag about how great and how accurate their model would be, 
+         and they’d be <kinesic><desc>nodding head</desc></kinesic>right. 
       </u>
 
       <!-- time 07:07 -->
