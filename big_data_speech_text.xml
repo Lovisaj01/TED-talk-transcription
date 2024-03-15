@@ -51,16 +51,16 @@
             We're being scored with secret formulas <kinesic><desc>nodding head</desc></kinesic>that we don't understand that often don't have systems of appeal. 
             That begs the question: What if the algorithms <pause/> are wrong? 
          </u>
-         <u>
+         <u who="#Cathy">
             To build an algorithm, you need two things, <kinesic><desc>hand gesture for on the one hand</desc></kinesic> you need data, what happened in the past, <kinesic><desc>hand gesture for on the other hand</desc></kinesic>and a definition of success, the thing you're looking for and often hoping for.  
          </u>
-         <u>
+         <u who="#Cathy">
             You train <kinesic><desc>arm motion for training</desc></kinesic>
             an algorithm by <del>looking</del> <kinesic><desc>hand gesture for process of understanding </desc></kinesic>
             figuring out, for the algorithm figures out what is <kinesic><desc>hand gesture for moving one thing from one side to another</desc></kinesic>
             associated with success, what situation <kinesic><desc>hand gesture for moving one thing from one side to another</desc></kinesic>leads to success. 
          </u>
-         <u>
+         <u who="#Cathy">
             Actually, <kinesic><desc>hand gesture to calm down the audience</desc></kinesic>
             everyone uses algorithms, they just don't formalize them in written code. 
             Let me give an example <kinesic><desc>gesturing towards the audience</desc></kinesic>: 
@@ -75,7 +75,7 @@
             <kinesic><desc>hand gesture for no</desc></kinesic>I don't count <kinesic><desc>symbolizing a package</desc></kinesic>
             those little packages of ramen noodles as food. <vocal who="#Audience"><desc>laughter</desc></vocal>
          </u>
-         <u>
+         <u who="#Cathy">
             My definition of success is, a meal of success is my kids eat vegetables. It's very different 
             from if my youngest son were in charge, he'd say if he gets to eat lots of Nutella. 
             <vocal who="#Audience"><desc>laughter</desc></vocal> But I get to choose success. I am in charge. 
@@ -87,7 +87,7 @@
             to make you trust and fear math and algorithms because you trust and fear mathematics. 
             A lot can go wrong when we put blind faith in big data. <pause />
          </u>
-         <u>
+         <u who="#Cathy">
             This is Kiri Soares. She's a high school principal in Brooklyn. In twenty eleven, 
             she told me her teachers were being scored with a complex, secret algorithm 
             called a <quote>value-added model</quote>. I told her, <quote>Well, figure out what the formula is, show it to me. 
@@ -108,21 +108,21 @@
             <kinesic><desc>shows a diagram with a swarm of unstructured dots</desc></kinesic>
             <vocal who="#Audience"><desc>laughter</desc></vocal>
          </u>
-         <u>
+         <u who="#Cathy">
             What is that? <vocal who="#Audience"><desc>laughter</desc></vocal> 
             That should never have been used for individual assessment. It's almost a random number generator. 
             <vocal who="#Audience"><desc>applause</desc></vocal>But it was. 
             This is Sarah Wysocki. She got fired, along with two hundred and five other teachers from the Washington DC school district, 
             even though she had great recommendations from her principal and the parents of her kids. 
          </u>
-         <u>
+         <u who="#Cathy">
             I know what a lot of you guys are thinking, especially data scientists - the AI experts here. 
             You're thinking, <quote>Well, I would never make an algorithm that inconsistent</quote>. 
             But algorithms can go wrong, even have deeply destructive effects with good intentions. 
             And, whereas an airplane that's designed badly crashes to the earth and everyone sees it, 
             an algorithm designed badly <pause />can go on for a long time, silently wreaking havoc.  
          </u>
-         <u>
+         <u who="#Cathy">
             This is Roger Ailes. <vocal who="#Audience"><desc>laughter</desc></vocal><kinesic><desc>nodding head</desc></kinesic> 
             He founded Fox News in nineteen ninety-six. More than twenty women complained about sexual harassment. 
             They said they weren't allowed to succeed at Fox News. He was ousted last year, but we've seen recently that the problems have persisted. 
@@ -136,11 +136,11 @@
             It would be trained to look for people to learn what led to success, what kind of applications 
             <del>led to</del> historically led to success, by that definition.  
          </u>
-         <u>
+         <u who="#Cathy">
             <kinesic><desc>finger raised</desc></kinesic>Now think of what would happen if we applied that to a current pool of applicants. 
             It would filter out women <pause /> because they do not look like people who were successful in the past.  
          </u>
-         <u>
+         <u who="#Cathy">
             Algorithms don't make things fair if you just blithely, blindly apply algorithms. 
             They don't make things fair. They repeat our past practices, our patterns. They automate the status quo. 
             That would be great if we had a perfect world, but we don't. 
@@ -149,7 +149,7 @@
             <kinesic><desc>hand gesture for strictly</desc></kinesic>to focus on accuracy. 
             Think about what that means. Because we all have bias, it means they could be codifying <kinesic><desc>hand gesture for first of a number of reasons</desc></kinesic>sexism or any other kind of bigotry. 
          </u>
-         <u>
+         <u who="#Cathy">
             Thought experiment, because I like them: <vocal><desc>inhale</desc></vocal>
             an entirely segregated society - racially segregated, all towns, all neighborhoods, 
             and where we send the police only to the minority neighborhoods to look for crime. 
@@ -158,13 +158,13 @@
             <kinesic><desc>hand gesture for ironically no clue or obvious</desc></kinesic>Minority neighborhoods. 
             Oh, or to predict who the next criminal would be? A minority. 
          </u>
-         <u>
+         <u who="#Cathy">
             The data scientists would brag about how great and how accurate their model would be, 
             and they'd be <kinesic><desc>nodding head</desc></kinesic>right. 
          </u>
 
          <!-- time 07:07 -->
-         <u>
+         <u who="#Cathy">
             <kinesic><desc>expressive hands movement</desc></kinesic>Now reality isn't that drastic, but we do have severe segregations in many cities and towns.
             We have plenty of evidence <pause/> of bias pleasing and justice system data.
             <kinesic><desc>left hand index finger raised up</desc></kinesic> And we actually do <kinesic><desc>left hand index and thumb fingers do a circle</desc></kinesic> predict hot spots, places where crimes would occur.
@@ -186,7 +186,7 @@
             When they're secret, important and destructive, I've coined a term for these algorithms: weapons of math destruction.
             <vocal who="#Audience"><desc>laughter, cheer</desc></vocal> <kinesic who="#Audience"><desc>applause</desc></kinesic>
          </u>
-         <u>
+         <u who="#Cathy">
             <kinesic><desc>expressive hands movement</desc></kinesic>They're everywhere<shift new="asc"/>and it's not a mistake! 
             These are private companies building private algorithms for private ends.
             Even the ones I talked about for teachers and public police, those were built by private companies and sold to the government institutions.
@@ -201,7 +201,7 @@
             We're all racist and bigoted in ways that we wish we weren't,<incident><desc>in wis</desc></incident>in ways that we don't even know.
             We know this though,<incident><desc>ts</desc></incident>in aggregate because sociologists have consistently demonstrated this with these experiments they build, where they send a bunch of applications to jobs out, equally qualified but some have white sounding names and some have black-sounding names,<incident><desc>they ack</desc></incident> it's always disappointing, the results, always.
          </u>
-         <u>
+         <u who="#Cathy">
             So we are the ones that are biased and we are injecting those biases into the algorithms by choosing what data to collect, like I <pause/> I chose not to think about ramen noodles, I decided it was irrelevant.
             But by<incident><desc>ch</desc></incident>they having the data, trusting the data that's actually picking up <incident><desc>p</desc></incident> on past practices and by choosing the definition of success.
             <shift new="asc"/>How can we expect the algorithms to emerge unscathed? 
@@ -213,12 +213,12 @@
             <kinesic><desc>left hand index finger raised up</desc></kinesic>And we can fix them, we can make them better.
             I call this an algorithmic audit and I'll walk you through it.  
          </u>
-         <u>
+         <u who="#Cathy">
             First, data integrity check.<pause/>
             <kinesic><desc>expressive hands movement</desc></kinesic>For the recidivism risk algorithm I talked about, a data integrity check would mean we'd have to come to terms with the fact that in the US, whites and blacks smoke pot at the same rate but blacks are far more likely to be arrested, four or five times more likely, depending on the area.
             What is that bias looking like in other crime categories, and how do we account for it?<shift new="normal"/>
          </u>
-         <u>
+         <u who="#Cathy">
             Second,<incident><desc>we th</desc></incident>we should think about the definition of success.
             Audit that.  
             Remember,<shift new="asc"/>with the hiring algorithm?
@@ -231,7 +231,7 @@
             <incident><desc>What</desc></incident>What I want to think there is the people<incident><desc>wh</desc></incident>who are listining have decided what's important and they've decided what's not important and they're not getting distracted by that.
             When the blind orchestras auditions started, the number of women in orchestras went up by a factor of five.  
          </u>
-         <u>
+         <u who="#Cathy">
             Next, we have to consider accuracy.
             This is where the value-added for teachers would fail immediately.
             No algorithm is perfect,<shift new="asc"/>of course!
@@ -239,17 +239,17 @@
             How often are there errors and for whom does this model fail?<shift new="normal"/>
             What is the cost of that failure?<shift new="normal"/>
          </u>
-         <u>
+         <u who="#Cathy">
             And finally, we have to consider<pause/>the long-term effects of algorithms, the feedback loops that are engendering.
             And <incident><desc>that</desc></incident> that sounds abstract but imagine if Facebook engineers had considered that<pause/>before they decided<incident><desc>to</desc></incident>to show us only things that our friends<pause/>had posted. 
          </u>
-         <u>
+         <u who="#Cathy">
             I have two more messages, one for the data scientists out there. 
             Data scientists, we should not be the arbiters of truth.
             We should be translators of ethical discussions that happen in larger society.
             <kinesic who="#Audience"><desc>applause</desc></kinesic><vocal who="#Audience"><desc>cheer</desc></vocal>
          </u>
-         <u>
+         <u who="#Cathy">
             And the rest of you, the non-data scientists: this is not a math test, this is a political fight.
             <vocal who="#Audience"><desc>yeah</desc></vocal>
             We need to demand accountability for our algorithmic overlords.
