@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002 01 24//EN" "http://dublincore.org/specifications/dublin-core/dcmes-xml/2002-01-24/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="big_data_speech_text.xml">
+    <dc:title>The era of blind faith in big data must end: TEI Transcription</dc:title>
+    <dc:type>Document</dc:type>
+    <dc:creator>Johansson, Lovisa</dc:creator>
+    <dc:creator>Escriva Laparra, Ana-Belén</dc:creator>
+    <dc:description>Transcription of a video-recorded TED-talk held live in April 2017.</dc:description>
+    <dc:date>2017-04</dc:date>
+    <dc:format>text/xml</dc:format>
+    <dc:source>https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end?hasSummary=true</dc:source>
+    <dc:language>en-us</dc:language>
+    <dc:coverage>University of Borås, 21st century</dc:coverage>
+    <dc:rights>CC BY–NC–ND 4.0 International and University of Boras licence</dc:rights>
+  </rdf:Description>
+</rdf:RDF>
