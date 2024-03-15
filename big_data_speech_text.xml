@@ -77,10 +77,10 @@
       <u>
          This is Kiri Soares. She's a high school principal in Brooklyn. In twenty eleven, 
          she told me her teachers were being scored with a complex, secret algorithm 
-         called a “value-added model”. I told her, “Well, figure out what the formula is, show it to me. 
-         <kinesic><desc>nodding head</desc></kinesic>I'm gonna explain it to you.” She said, 
-         “Well, I tried to get the formula, but my department of education contact told me it was 
-         <quote>math</quote> and I wouldn't understand it. <pause /> 
+         called a <quote>value-added model</quote>. I told her, <quote>Well, figure out what the formula is, show it to me. 
+         <kinesic><desc>nodding head</desc></kinesic>I'm gonna explain it to you.</quote> She said, 
+         <quote>Well, I tried to get the formula, but my department of education contact told me it was 
+         <quote>math</quote> and I wouldn't understand it.</quote><pause /> 
          <kinesic><desc>finger raised</desc></kinesic>It gets worse. 
          The New York Post filed a Freedom of Information Act request. Got all the teachers' names, 
          and all their scores and they publish them as an act of teacher-shaming. 
@@ -104,10 +104,10 @@
       </u>
       <u>
          I know what a lot of you guys are thinking, especially data scientists - the AI experts here. 
-         You're thinking, “Well, I would never make an algorithm that inconsistent”. 
+         You're thinking, <quote>Well, I would never make an algorithm that inconsistent</quote>. 
          But algorithms can go wrong, even have deeply destructive effects with good intentions. 
          And, whereas an airplane that's designed badly crashes to the earth and everyone sees it, 
-         an algorithm designed badly <pause /> can go on for a long time, silently wreaking havoc.  
+         an algorithm designed badly <pause />can go on for a long time, silently wreaking havoc.  
       </u>
       <u>
          This is Roger Ailes. <vocal who="#Audience"><desc>laughter</desc></vocal><kinesic><desc>nodding head</desc></kinesic> 
@@ -165,22 +165,22 @@
          <kinesic><desc>expressive hands movement</desc></kinesic>They were both brought in for drug possession.
          They both had records <kinesic><desc>points to the picture on the right</desc></kinesic> but Dylan <kinesic><desc>points to the picture on the right</desc></kinesic> <pause/> had a felony <kinesic><desc>points to the picture on the left</desc></kinesic> but Bernard didn't.
          <kinesic><desc>expressive hands movement</desc></kinesic>This matters because the higher score you are, the more likely you're being given a longer sentence.<pause/>
-         <shilft new=asc/>What's going on? 
+         <shift new="asc"/>What's going on? 
          Data laundering.
          <vocal who="#Audience"><desc>aha</desc></vocal>
          It's a process by which technologists hide ugly truths inside black box algorithms and call them objective.
          Call them meritocratic. <pause/>
          When they're secret, important and destructive, I've coined a term for these algorithms: weapons of math destruction.
-         <vocal who="#Audience"><desc>laughter, cheer</desc></vocal> <kinesic who="#Audience"=><desc>applause</desc></kinesic>
+         <vocal who="#Audience"><desc>laughter, cheer</desc></vocal> <kinesic who="#Audience"><desc>applause</desc></kinesic>
       </u>
       <u>
-         <kinesic><desc>expressive hands movement</desc>They're everywhere<shilft new=asc/>and it's not a mistake! 
+         <kinesic><desc>expressive hands movement</desc></kinesic>They're everywhere<shift new="asc"/>and it's not a mistake! 
          These are private companies building private algorithms for private ends.
          Even the ones I talked about for teachers and public police, those were built by private companies and sold to the government institutions.
          They call it<kinesic><desc>expressive hands movement</desc></kinesic>their<quote>secret sauce</quote>, that's why they can't tell us about it.
          It's also private power.
          They're profiting for wielding the authority of the inscrutable.<pause/>
-         Now you might think, since<incident><desc>is pr</desc></incident><kinesic><desc>expressive hands movement</desc></kinesic></kinesic> all this stuff is private, there's competition, maybe the free market will solve this problem.
+         Now you might think, since<incident><desc>is pr</desc></incident><kinesic><desc>expressive hands movement</desc></kinesic> all this stuff is private, there's competition, maybe the free market will solve this problem.
          It won't.
          There's a lot of money to be made in unfairness.
          Also we're note economic rational agents.
@@ -191,7 +191,7 @@
       <u>
          So we are the ones that are biased and we are injecting those biases into the algorithms by choosing what data to collect, like I <pause/> I chose not to think about ramen noodles, I decided it was irrelevant.
          But by<incident><desc>ch</desc></incident>they having the data, trusting the data that's actually picking up <incident><desc>p</desc></incident> on past practices and by choosing the definition of success.
-         <shilft new=asc/>How can we expect the algorithms to emerge unscathed? 
+         <shift new="asc"/>How can we expect the algorithms to emerge unscathed? 
          <shift feature="loud" new="f"/>We can't!
          We have to check them. <pause/>
          We've to check them for fairness.
@@ -208,8 +208,8 @@
       <u>
          Second,<incident><desc>we th</desc></incident>we should think about the definition of success.
          Audit that.  
-         Remember,<shilft new=asc/>with the hiring algorithm?
-         We talked about it: someone who stays for four years and<shilft new=asc/>is promoted once?
+         Remember,<shift new="asc"/>with the hiring algorithm?
+         We talked about it: someone who stays for four years and<shift new="asc"/>is promoted once?
          Well, that is a successful employee, but it's also an employee that is supported by their culture.
          That said, also it can be quite biased.
          We need to separate these two things.
@@ -221,7 +221,7 @@
       <u>
          Next, we have to consider accuracy.
          This is where the value-added for teachers would fail immediately.
-         No algorithm is perfect,<shilft new=asc/>of course!
+         No algorithm is perfect,<shift new="asc"/>of course!
          So we have to consider the errors<pause/>of every algorithm.
          How often are there errors and for whom does this model fail?<shift new="normal"/>
          What is the cost of that failure?<shift new="normal"/>
@@ -234,16 +234,16 @@
          I have two more messages, one for the data scientists out there. 
          Data scientists, we should not be the arbiters of truth.
          We should be translators of ethical discussions that happen in larger society.
-         <kinesic who="#Audience"=><desc>applause</desc></kinesic><vocal who="#Audience"><desc>cheer</desc></vocal>
+         <kinesic who="#Audience"><desc>applause</desc></kinesic><vocal who="#Audience"><desc>cheer</desc></vocal>
       </u>
       <u>
          And the rest of you, the non-data scientists: this is not a math test, this is a political fight.
          <vocal who="#Audience"><desc>yeah</desc></vocal>
          We need to demand accountability for our algorithmic overlords.
-         <vocal who="#Audience"><desc>cheer</desc></vocal><kinesic who="#Audience"=><desc>applause</desc>
+         <vocal who="#Audience"><desc>cheer</desc></vocal><kinesic who="#Audience"><desc>applause</desc></kinesic>
          <incident><desc>the</desc></incident><shift feature="sigh" new="giggle"/>the era of big data of blind faith in big data must end.
          Thank you very much.
-         <vocal who="#Audience"><desc>cheer</desc></vocal><kinesic who="#Audience"=><desc>applause</desc>
+         <vocal who="#Audience"><desc>cheer</desc></vocal><kinesic who="#Audience"><desc>applause</desc></kinesic>
        </u>
     </body>
 </text>
