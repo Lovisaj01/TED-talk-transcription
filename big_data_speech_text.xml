@@ -203,7 +203,7 @@
       <u>
          First, data integrity check.<pause/>
          <kinesic><desc>expressive hands movement</desc></kinesic>For the recidivism risk algorithm I talked about, a data integrity check would mean we'd have to come to terms with the fact that in the US, whites and blacks smoke pot at the same rate but blacks are far more likely to be arrested, four or five times more likely, depending on the area.
-         What is that bias looking like in other crime categories, and how do we account for it?
+         What is that bias looking like in other crime categories, and how do we account for it?<shift new="normal"/>
       </u>
       <u>
          Second,<incident><desc>we th</desc></incident>we should think about the definition of success.
@@ -223,8 +223,8 @@
          This is where the value-added for teachers would fail immediately.
          No algorithm is perfect,<shilft new=asc/>of course!
          So we have to consider the errors<pause/>of every algorithm.
-         How often are there errors and for whom does this model fail?
-         What is the cost of that failure?
+         How often are there errors and for whom does this model fail?<shift new="normal"/>
+         What is the cost of that failure?<shift new="normal"/>
       </u>
       <u>
          And finally, we have to consider<pause/>the long-term effects of algorithms, the feedback loops that are engendering.
