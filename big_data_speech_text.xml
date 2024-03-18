@@ -4,7 +4,7 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" type="application/xml-xsd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader><!--Metadata-->
+  <teiHeader xml:lang="en">
       <fileDesc>
          <titleStmt>
             <title>The era of blind faith in big data must end: TEI Transcription</title>
