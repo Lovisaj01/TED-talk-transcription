@@ -1,19 +1,30 @@
 <?xml version="1.0"?>
-<!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002 01 24//EN" "http://dublincore.org/specifications/dublin-core/dcmes-xml/2002-01-24/dcmes-xml-dtd.dtd">
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="big_data_speech_text.xml">
+    <dc:identifier rdf:resource="big_data_speech_text.xml"/>
+    <dcterms:abstract rdf:ID="TED">Algorithms decide who gets a loan, who gets a job interview, who gets insurance and much more -- but they don't automatically make things fair. Mathematician and data scientist Cathy O'Neil coined a term for algorithms that are secret, important and harmful: "weapons of math destruction." Learn more about the hidden agendas behind the formulas.</dcterms:abstract>
     <dc:title>The era of blind faith in big data must end: TEI Transcription</dc:title>
     <dc:type>Document</dc:type>
     <dc:creator>Johansson, Lovisa</dc:creator>
     <dc:creator>Escriva Laparra, Ana-Belén</dc:creator>
     <dc:description>Transcription of a video-recorded TED-talk held live in April 2017.</dc:description>
     <dc:subject>Transcription; Public speaking; Big data; Computer algorithms; Surveillance detection </dc:subject>
-    <dc:date>2017-04</dc:date>
+    <dc:publisher>University of Borås</dc:publisher>
+    <dc:date>2024-03-15</dc:date>
     <dc:format>text/xml</dc:format>
     <dc:source>https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end?hasSummary=true</dc:source>
     <dc:language>en-us</dc:language>
-    <dc:coverage>University of Borås, 21st century</dc:coverage>
-    <dc:rights>CC BY-NC-ND 4.0 International and University of Borås licence</dc:rights>
+    <dc:coverage>Borås, Sweden, 21st century</dc:coverage>
+    <dc:rights>CC BY-NC-ND 4.0 International and University of Borås licence for copied material  https://www.hb.se/en/student/my-studies/study-environment-and-safety/rights-and-obligations/copyrights/ [visited 2024-04-19]</dc:rights>
+    <dc:audience>Professors and students at the course Multimodality: narrative and context in different media forms at University of Borås spring 2024</dc:audience>
+    <rdfs:comment>
+      This transcription is an interpretation of the audiovisual modalities in the video, but may not be the only interpretation. This document considers gestures, tone of voice and reactions from the audience but does not account for different wide shots in the video among other things. 
+    </rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="#TED">
+    <dc:creator>TED Conferences</dc:creator>
   </rdf:Description>
 </rdf:RDF>
