@@ -8,31 +8,50 @@
       <fileDesc>
          <titleStmt>
             <title>The era of blind faith in big data must end: TEI Transcription</title>
+            <respStmt>
+               <resp>compiled by</resp>
+               <name>Escriva Laparra, Ana-Belén</name>
+               <name>Johansson, Lovisa</name>
+            </respStmt>
          </titleStmt>
          
          <publicationStmt>
             <publisher>University of Borås</publisher> 
-            <date>15 March 2024</date> 
+            <date when="2024-03-15">15th March 2024</date> 
             <availability> 
                <licence target="https://creativecommons.org/licenses/by/4.0/"> 
                   <p> 
                      Original speech held by Cathy O'Neil (2017) is currently hosted on the public domain TED.se. 
-                     Unauthorized transcription cannot be distributed under a CC BY–NC–ND 4.0 International license. 
+                     Unauthorized transcription cannot be distributed under a CC BY-NC-ND 4.0 International license. 
+                     The trancription also applies to University of Borås licence for copied material  https://www.hb.se/en/student/my-studies/study-environment-and-safety/rights-and-obligations/copyrights/ [visited 2024-04-19]
                   </p> 
                </licence> 
             </availability> 
          </publicationStmt>
          
          <sourceDesc>
-            <scriptStmt xml:id="CNN12">
-             <bibl>
-              <author>Cathy O'Neil</author>
-              <title>The era of blind faith in big data must end</title>
-              <pubPlace>Vancouver BC</pubPlace>
-              <date when="2017-04">April 2017</date>
-             </bibl>
+            <scriptStmt>
+               <bibl>
+                  <author>
+                     <name>
+                        <surname>O'Neil</surname>
+                        <forename>Cathy</forename>
+                     </name>
+                  </author>
+                  <title>The era of blind faith in big data must end</title>
+                  <publisher>TED Conferences</publisher>
+                  <pubPlace>Vancouver BC</pubPlace>
+                  <date when="2017-04">April 2017</date>
+                  <availability>
+                     <licence target="https://creativecommons.org/licenses/by/4.0/"> 
+                        <p> 
+                           Speech held by Cathy O'Neil (2017) is currently hosted on the public domain TED.se under a CC BY-NC-ND 4.0 International license. 
+                        </p> 
+                     </licence> 
+                  </availability>
+               </bibl>
             </scriptStmt>
-           </sourceDesc>
+         </sourceDesc>
       </fileDesc>
   </teiHeader>
 
