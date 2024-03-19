@@ -71,7 +71,7 @@
                <item>ingredients in my kitchen, </item>
                <item>the time I have, </item>
                <item>the ambition I have</item>
-            </list>, and <kinesic><desc>hand gesture for no don't suppose I forgot</desc></kinesic> I curate that data. 
+            </list>, <shift new="asc"/>and <kinesic><desc>hand gesture for no don't suppose I forgot</desc></kinesic> I curate that data. 
             <kinesic><desc>hand gesture for no</desc></kinesic>I don't count <kinesic><desc>symbolizing a package</desc></kinesic>
             those little packages of ramen noodles as food. <vocal who="#Audience"><desc>laughter</desc></vocal>
          </u>
@@ -79,7 +79,7 @@
             My definition of success is, a meal of success is my kids eat vegetables. It's very different 
             from if my youngest son were in charge, he'd say if he gets to eat lots of Nutella. 
             <vocal who="#Audience"><desc>laughter</desc></vocal> But I get to choose success. I am in charge. 
-            My opinion matters. That's the first rule of algorithms: algorithms are opinions embedded in code. 
+            My opinion matters. <shift new="asc"/>That's the first rule of algorithms: algorithms are opinions embedded in code. 
             It's very different from what you think most people think of algorithms. 
             <del>They think of algorithms </del>, they think algorithms are objective and true and scientific. 
             That's a marketing trick <vocal who="#Audience"><desc>a slight "a-ha"</desc></vocal>. 
@@ -88,6 +88,7 @@
             A lot can go wrong when we put blind faith in big data. <pause />
          </u>
          <u who="#Cathy">
+            <kinesic><desc>Shows picture of a woman in a classroom, holding a poster which says "be the nerd"</desc></kinesic>
             This is Kiri Soares. She's a high school principal in Brooklyn. In twenty eleven, 
             she told me her teachers were being scored with a complex, secret algorithm 
             called a <quote>value-added model</quote>. I told her, <quote>Well, figure out what the formula is, show it to me. 
@@ -109,30 +110,32 @@
             <vocal who="#Audience"><desc>laughter</desc></vocal>
          </u>
          <u who="#Cathy">
-            What is that? <vocal who="#Audience"><desc>laughter</desc></vocal> 
+            <shift new="asc"/>What is that? <vocal who="#Audience"><desc>laughter</desc></vocal> 
             That should never have been used for individual assessment. It's almost a random number generator. 
             <vocal who="#Audience"><desc>applause</desc></vocal>But it was. 
-            This is Sarah Wysocki. She got fired, along with two hundred and five other teachers from the Washington DC school district, 
+            This is Sarah Wysocki. <kinesic><desc>Shows picture of a woman in a classroom with kids reading behind her</desc></kinesic>
+            She got fired, along with two hundred and five other teachers from the Washington DC school district, 
             even though she had great recommendations from her principal and the parents of her kids. 
          </u>
          <u who="#Cathy">
             I know what a lot of you guys are thinking, especially data scientists - the AI experts here. 
             You're thinking, <quote>Well, I would never make an algorithm that inconsistent</quote>. 
             But algorithms can go wrong, even have deeply destructive effects with good intentions. 
-            And, whereas an airplane that's designed badly crashes to the earth and everyone sees it, 
+            <shift new="asc"/>And, whereas an airplane that's designed badly crashes to the earth and everyone sees it, 
             an algorithm designed badly <pause />can go on for a long time, silently wreaking havoc.  
          </u>
          <u who="#Cathy">
-            This is Roger Ailes. <vocal who="#Audience"><desc>laughter</desc></vocal><kinesic><desc>nodding head</desc></kinesic> 
+            <kinesic><desc>Shows picture of man in a suit and tie</desc></kinesic>This is Roger Ailes. 
+            <vocal who="#Audience"><desc>laughter</desc></vocal><kinesic><desc>nodding head</desc></kinesic> 
             He founded Fox News in nineteen ninety-six. More than twenty women complained about sexual harassment. 
             They said they weren't allowed to succeed at Fox News. He was ousted last year, but we've seen recently that the problems have persisted. 
-            That begs the question: What should Fox News do to turn over another leaf? 
-            Well, what if they replaced their hiring process with a machine-learning algorithm? That sounds good, right? 
+            That begs the question: <shift new="asc"/>What should Fox News do to turn over another leaf? 
+            Well, what if they replaced their hiring process with a machine-learning algorithm? <shift new="asc"/>That sounds good, right? 
             Think about it. The data, what would the data be? 
             A reasonable choice would be the last twenty-one years of applications to Fox News. Reasonable. 
             What about the definition of success? Reasonable choice would be, well, who is successful at Fox News? 
             I guess someone who, say, stayed there for four years and was promoted at least once. Sounds reasonable. 
-            And then, the algorithm would be trained. 
+            <shift new="asc"/>And then, the algorithm would be trained. 
             It would be trained to look for people to learn what led to success, what kind of applications 
             <del>led to</del> historically led to success, by that definition.  
          </u>
@@ -141,9 +144,9 @@
             It would filter out women <pause /> because they do not look like people who were successful in the past.  
          </u>
          <u who="#Cathy">
-            Algorithms don't make things fair if you just blithely, blindly apply algorithms. 
-            They don't make things fair. They repeat our past practices, our patterns. They automate the status quo. 
-            That would be great if we had a perfect world, but we don't. 
+            <shift new="asc"/>Algorithms don't make things fair if you just blithely, blindly apply algorithms. 
+            They don't make things fair. They repeat our past practices, our patterns. <shift new="asc"/>They automate the status quo. 
+            <shift new="asc"/>That would be great if we had a perfect world, but we don't. 
             <kinesic><desc>finger raised</desc></kinesic>And I'll add that most companies don't have embarrassing lawsuits. 
             But the data scientist in those companies are told <kinesic><desc>hand gesture for strictly</desc></kinesic>to follow the data, 
             <kinesic><desc>hand gesture for strictly</desc></kinesic>to focus on accuracy. 
